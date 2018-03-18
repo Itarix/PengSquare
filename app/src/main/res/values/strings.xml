@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PengSquare</string>
+    <string name="reponseAttendu">0</string>
+    <string name="resultat">00</string>
+    <string name="equalsSign"> = </string>
+    <string name="plusSign"> + </string>
+    <string name="soumettreReponse"> Soumettre </string>
+    <string name="regle"> Règle? </string>
+    <string name="newGame"> Recommencer </string>
+    <string name="quitter"> Quitter </string>
+    <string name="jouer"> Jouer </string>
+    <string name="niveau"> Niveau? </string>
+    <string name="validerNiveau"> Valider Niveau </string>
+    <string name="aide"> Une aide?</string>
+    <string name="score"> Votre Score : </string>
+</resources>
